@@ -9855,8 +9855,8 @@ textarea.form-control {
 }
 .testimonial-five_shape01 {
   position: absolute;
-  left: 0;
-  top: -5%;
+  left: 7%;
+  top: 8%;
   width: 33%;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
